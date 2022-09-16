@@ -1,3 +1,7 @@
+/*Name of the Candidate :L.Narayana Reddy
+Roll no : 204g10576
+Title of the Experiment : CPU Scheduling using SJF algoritm
+Date of Creation : 16-09-2022 */
 #include<stdio.h>
 #include<conio.h>
 main()
